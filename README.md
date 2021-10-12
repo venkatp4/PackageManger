@@ -1,3 +1,3 @@
 # PackageManager
 
-A description of this package.
+A Test Package manager to load the packages from iOS Project
